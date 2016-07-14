@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://xjewelry.herokuapp.com",
+      "appId": "xjewelry",
+      "masterKey": "12345",
+      "appName": "X Jewelry"
+    }
+  ],
+  "users": [
+    {
+      "user":"xyzrr",
+      "pass":"123"
+    }
+  ]
+}
